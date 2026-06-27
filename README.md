@@ -16,10 +16,12 @@ Analyze employee data and create a dashboard for business insights.
 4. Fixed missing values
 
 ## KPIs
+
 - Total Employees
 - Average Salary
 - Department Count
 - Average Experience
 
 ## Dashboard Preview
-See the dashboard screenshot in the repository.
+![Dashboard](Dashboard_Screenshot.png)
+
